@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/dance-bootstrap-app:latest
+      - image: quay.io/mmorhun-org/rhdh-test:993e8f4cd3efe0b0081348818ac0d424615d4b4d@sha256:517cdb905b75030fd02cf5169e21ded3aae5fec90ba87c94eab782f7e674f22e
         name: container-image  
