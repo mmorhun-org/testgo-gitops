@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/mmorhun-org/rhdh-test:9783bafc07e02fef16a64986498f15234d87870c@sha256:717594d1d5585ea1a5e8b220e47085a812f0f03cd56e5d3b417e0ab2bddea919
+      - image: quay.io/mmorhun-org/rhdh-test:ef99a2d379eb5a95d56794fe9538bc51b03e162a@sha256:de0e3f7f83df9c5c4a3b03ab093fa9092d5f53c90545c3b45cc6ec6a170f66b1
         name: container-image  
